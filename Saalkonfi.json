@@ -202,7 +202,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/pixelpuncher.de\/wp-content\/uploads\/2021\/12\/test.mp3"
+                 "value":"test.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
